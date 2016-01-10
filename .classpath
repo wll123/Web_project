@@ -23,5 +23,6 @@
 	<classpathentry kind="lib" path="E:/ssh/hibernate/hibernate-release-5.0.6.Final/lib/required/jboss-logging-3.3.0.Final.jar"/>
 	<classpathentry kind="lib" path="E:/ssh/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="E:/ssh/hibernate/hibernate-release-5.0.6.Final/lib/optional/infinispan/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Java Tools/apache-tomcat-8.0.30/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
